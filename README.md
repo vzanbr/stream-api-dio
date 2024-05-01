@@ -1,6 +1,6 @@
 # Projeto Trilha java DIO Backend
 
-#### Conta bancaria simples
+#### Exemplos de Stream com lambda e Method Reference
 
 - 💬 Descrição e objetivo: Ganhando Produtividade com Stream API e Java
 
